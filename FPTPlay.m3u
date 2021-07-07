@@ -24,7 +24,7 @@ udp://@225.1.2.254:30120
 #EXTINF:-1 tvg-name="VTC2" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_151489100971.png",VTC2
 udp://@225.1.2.202:30120
 #EXTINF:-1 tvg-name="VTC3 HD" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_151489102133.png",VTC3 HD
-udp://@225.1.2.251:30120
+udp://@225.1.4.42:30120
 #EXTINF:-1 tvg-name="VTC4 HD" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png",VTC4 HD
 udp://@225.1.2.200:30120
 #EXTINF:-1 tvg-name="VTC5" group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc5_150226870197.jpg",VTC5
@@ -192,11 +192,22 @@ udp://@225.1.2.211:30120
 udp://@225.1.4.18:30120
 
 
-#EXTINF:-1 tvg-name="SCTV2 SD" group-title="SCTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_sctv-2_155470783649.png",SCTV2 SD
+#EXTINF:-1 tvg-name="SCTV1 HD" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-N7N00xEzwdk/WseTQ4JIZAI/AAAAAAAAD54/3CBRPE78BnARomYiVfxbMN2cMgR8G4o5gCLcBGAs/h1200/s1.png", SCTV1 HD
+http://vtsstr1.tv24.vn:1935/live/SCTV_HD_Hai_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50?byhthanh
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV2.png" group-title="SCTV" tvg-name="SCTV2 SD", SCTV2 SD
 udp://@225.1.1.234:30120
-#EXTINF:-1 tvg-name="SCTV10 SD" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/31/SCTV10_logo_2011.png/revision/latest/scale-to-width-down/200?cb=20201022112244&path-prefix=vi",SCTV10 SD
-udp://@225.1.2.37:30120
-
+#EXTINF:-1 tvg-name="SCTV6" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-aRJdZbAiOQA/VpxAuVmP4fI/AAAAAAAAASk/LuG4KBWvhnQ/h120/sctv6.png",SCTV 6 HD - SNTV Thế Hệ Mới
+https://vtsstr6.tv24.vn/live/SCTV6HD_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-name="SCTV7" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-SCFBwogpr2Y/VpxAuIsVb6I/AAAAAAAAASc/Yw5wPfeKj6Y/h120/sctv7.png",SCTV 7 HD - SHOW Sân Khấu
+https://vtsstr6.tv24.vn/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#EXTINF:-1 tvg-id="SCTV13" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-GUtfmpUWAmM/WseYFaiUZhI/AAAAAAAAD64/pljxiaASby8qVw34njCsmwdQa7VvPLJKwCLcBGAs/h300/s13.png", SCTV13 HD - Lady TV
+http://vtsstr1.tv24.vn:1935/live/SCTVHDPhunuGiadinh_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50?byhthanh
+#EXTINF:-1 tvg-id="SCTV18" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/645/1566445843766.png", SCTV18 HD - Kênh 18
+http://vtsstr3.tv24.vn:1935/elive1/SCTV18_HD_4/chucklist.m3u8?uid=s2c526m574z5s4l5h4&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks
+#EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV19HD.png", SCTV19 HD - Channel T
+https://vtsstr6.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
+#EXTINF:-1 tvg-id="SCTV20" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV20HD.png", SCTV20 HD - Ca Nhạc
+https://vtsstr6.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
 #EXTINF:-1 tvg-name="Hà Nội 1 HD" group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg",Hà Nội 1 HD
 udp://@225.1.2.186:30120
 #EXTINF:-1 tvg-name="Hà Nội 2 HD" group-title="Địa phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg",Hà Nội 2 HD
@@ -366,5 +377,6 @@ udp://@225.1.2.146:30120
 udp://@225.1.1.233:30120
 #EXTINF:-1 tvg-name="Disney CHANNEL HD" group-title="Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney CHANNEL HD
 udp://@225.1.2.158:30120
-#EXTINF:-1 tvg-name="CN HD" group-title="Thiếu Nhi" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_channel-newsasia_151495143843.png",CN HD
+#EXTINF:-1 tvg-name="CN HD" group-title="Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",CN HD
 udp://@225.1.2.231:30120
+
