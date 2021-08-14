@@ -1,6 +1,21 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 #EXTM3U FPT IPTV
 
+
+
+#EXTINF:-1, Sky PL
+http://tv.ipflix.click:8080/922xvlb9/njuc2em4j7/683787
+#EXTINF:-1, Sky EPL
+http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5762
+#EXTINF:-1, Sky Sports Main Event
+http://tv.ipflix.click:8080/922xvlb9/njuc2em4j7/683736
+#EXTINF:-1, Sky Sports Event
+http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5760
+#EXTINF:-1, Sky ONE
+http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5734
+
+
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://vthanh.live/ic/1.png", VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
