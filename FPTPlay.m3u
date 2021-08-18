@@ -3,59 +3,6 @@
 
 
 
-
-#EXTINF:-1, Sky PL
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5762
-#EXTINF:-1, Sky Sports Main Event
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5760
-#EXTINF:-1, Sky ONE
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5734
-#EXTINF:-1, MUTV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5718
-#EXTINF:-1, LFCTV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5719
-#EXTINF:-1, BT SPORT ESPNHD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5752
-#EXTINF:-1, PREMIER SPORTS
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5753
-#EXTINF:-1, PREMIER SPORTS 2
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5754
-#EXTINF:-1, Sky Sports Arena
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5755
-#EXTINF:-1, Sky Sports Hundred
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5756
-#EXTINF:-1, Sky Sports F1
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5757
-#EXTINF:-1, Sky Sports Football
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5758
-#EXTINF:-1, Sky Sports Golf
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5759
-#EXTINF:-1, Sky Sports Mix
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5761
-#EXTINF:-1, Sky Sports Action
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5763
-#EXTINF:-1, Sky Sports Racing
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5764
-#EXTINF:-1, LaLigaTV
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5766
-#EXTINF:-1, Eurosport 1
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5769
-#EXTINF:-1, Eurosport 2
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5770
-#EXTINF:-1, BT SPORT 1 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5773
-#EXTINF:-1, BT SPORT 2 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5774
-#EXTINF:-1, BT SPORT 3 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5775
-
-#EXTINF:0, tiengruoi.link
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36"
-https://ndcagev-swv-47b850307.thapcam.link/b5a01097aa54af4e907652f4241349946765e4dc/384bdcdaf2815486f8dd5d565bc79d7b/1628958512/livehls/mtc_may11123HD/chunks.m3u8|Referer=https://tructiepeuro.live/truc-tiep
-
-
-
-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://vthanh.live/ic/1.png", VTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
